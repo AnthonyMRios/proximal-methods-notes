@@ -26,3 +26,7 @@ This repository contains notes/implementations of methods discussed in my UKNLP 
 - [Henrion and Malick, 2012](https://arxiv.org/pdf/1103.1511.pdf)
 
 ### Other
+- [Chambolle et al., 2009](https://hal.archives-ouvertes.fr/hal-00437581/document)
+- [Hallac et al., 2015](http://stanford.edu/~hallac/Network_Lasso.pdf)
+- [Yogatama and Smith, 2014](http://jmlr.org/proceedings/papers/v32/yogatama14.pdf)
+- [Elhamifar et al., 2013](http://papers.nips.cc/paper/4705-finding-exemplars-from-pairwise-dissimilarities-via-simultaneous-sparse-recovery.pdf)
