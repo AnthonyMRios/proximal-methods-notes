@@ -24,3 +24,5 @@ This repository contains notes/implementations of methods discussed in my UKNLP 
 ### Metric Learning
 - [Huang, 2009](http://www.albany.edu/\%7Eyy298919/icdm2009_final.pdf)
 - [Henrion and Malick, 2012](https://arxiv.org/pdf/1103.1511.pdf)
+
+### Other
