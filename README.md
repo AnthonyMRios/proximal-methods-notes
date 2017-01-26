@@ -4,9 +4,9 @@ This repository contains notes/implementations of methods discussed in my UKNLP 
 
 ## Table of Contents
 
-- [LASSO Regression](notes/LASSO.ipynb)
-- [Non-negative Matrix Factorization](notes/Non-negative Matrix Factorization.ipynb)
-- [Distance Metric Learning](notes/Distance Metric Learning.ipynb)
+1. [LASSO Regression](notes/LASSO.ipynb)
+2. [Non-negative Matrix Factorization](notes/Non-negative Matrix Factorization.ipynb)
+3. [Distance Metric Learning](notes/Distance Metric Learning.ipynb)
 
 ## References
 
